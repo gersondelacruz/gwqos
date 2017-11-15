@@ -1,2 +1,2 @@
 # gwqos
-GW Alpinen ROY
+GW Alpine ROY
